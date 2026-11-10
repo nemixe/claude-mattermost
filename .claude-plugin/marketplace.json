@@ -1,0 +1,11 @@
+{
+  "name": "claude-mattermost",
+  "owner": { "name": "claude-mattermost" },
+  "plugins": [
+    {
+      "name": "mattermost",
+      "source": "./",
+      "description": "Mattermost channel for Claude Code — one thread per session, multi-session routing, sessions spawned from chat."
+    }
+  ]
+}

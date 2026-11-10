@@ -1,0 +1,6 @@
+{
+  "name": "mattermost",
+  "description": "Mattermost channel for Claude Code — one thread per session, multi-session routing, sessions spawned from chat. Manage pairing and allowlists via /mattermost:access.",
+  "version": "0.1.0",
+  "keywords": ["mattermost", "messaging", "channel", "mcp"]
+}
